@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Golfing Exchange</string>
+    <string name="facebook_app_id">505242876619715</string>
+    <string name="fb_login_protocol_scheme">fb505242876619715</string>
+</resources>
